@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Excluded>
+    <exclude>E:\Steam\steamapps\common\RimWorld\Mods\Momu\.gitignore</exclude>
+    <exclude>E:\Steam\steamapps\common\RimWorld\Mods\Momu\Source</exclude>
+  </Excluded>
+</Configuration>

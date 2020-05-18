@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>NamerMomuUtility</defName>
+    <rulePack>
+      <rulesFiles>
+        <li>MomuFirstMale-&gt;NameBanks/Names_First_Momu_Male</li>
+        <li>MomuFirstFemale-&gt;NameBanks/Names_First_Momu_Female</li>
+        <li>MomuSyl-&gt;NameBanks/Names_Syllable_Momu</li>
+      </rulesFiles>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>NamerMomuMale</defName>
+    <include>
+      <li>NamerMomuUtility</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name(p=12)-&gt;[MomuFirstMale]</li>
+        <li>r_name-&gt;[MomuSyl][MomuFirstMale] [MomuSyl][MomuSyl]</li>
+        <li>r_name-&gt;[MomuSyl][MomuFirstMale] [MomuSyl][MomuSyl][MomuSyl]</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>NamerMomuFemale</defName>
+    <include>
+      <li>NamerMomuUtility</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name(p=12)-&gt;[MomuFirstFemale]</li>
+        <li>r_name-&gt;[TrenSyl][MomuFirstFemale] [MomuSyl][MomuSyl]</li>
+        <li>r_name-&gt;[TrenSyl][MomuFirstFemale] [MomuSyl][MomuSyl][MomuSyl]</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>

@@ -1,0 +1,6 @@
+E:\Steam\steamapps\common\RimWorld\Mods\Momu\Source\Momu\obj\Debug\Momu.csprojAssemblyReference.cache
+E:\Steam\steamapps\common\RimWorld\Mods\Momu\Source\Momu\obj\Debug\Momu.csproj.CoreCompileInputs.cache
+E:\Steam\steamapps\common\RimWorld\Mods\Momu\1.1\Assemblies\Momu.dll
+E:\Steam\steamapps\common\RimWorld\Mods\Momu\1.1\Assemblies\Momu.pdb
+E:\Steam\steamapps\common\RimWorld\Mods\Momu\Source\Momu\obj\Debug\Momu.dll
+E:\Steam\steamapps\common\RimWorld\Mods\Momu\Source\Momu\obj\Debug\Momu.pdb
