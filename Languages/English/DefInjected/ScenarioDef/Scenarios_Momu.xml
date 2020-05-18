@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MomuStart.label>A New Opportunity</MomuStart.label>
+  <MomuStart.description>The four of you have decided to move from your colony to start a new home of your own. Remember - Momu can't eat meat, so make sure you get some fruit and veggies growing quickly, and forage!</MomuStart.description>
+  <MomuStart.scenario.name>A New Opportunity</MomuStart.scenario.name>
+  <MomuStart.scenario.summary>Four Momu looking for a new life.</MomuStart.scenario.summary>
+  <MomuStart.scenario.description>The four of you have decided to move from your colony to start a new home of your own. Remember - Momu can't eat meat, so make sure you get some fruit and veggies growing quickly, and forage!</MomuStart.scenario.description>
+  <MomuStart.scenario.parts.18.text>Well, here you are - your new home. You packed your supplies and left your colony behind for a brand new start at life. \n\n The food you brought won't last forever, so it's vital to get some plants in the ground as soon as you have a shelter. \n\n Remember, Momu can't eat meat or regular meals - Raw food like Corn, Potatoes or Rice will do until you can begin to make platters. Remember to forage for fruit while you can!</MomuStart.scenario.parts.18.text>
+
+
+</LanguageData>

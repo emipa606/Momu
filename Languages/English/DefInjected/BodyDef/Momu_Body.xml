@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Momu.label>momu</Momu.label>
+  <Momu.corePart.parts.6.customLabel>left lung</Momu.corePart.parts.6.customLabel>
+  <Momu.corePart.parts.7.customLabel>right lung</Momu.corePart.parts.7.customLabel>
+  <Momu.corePart.parts.8.customLabel>left kidney</Momu.corePart.parts.8.customLabel>
+  <Momu.corePart.parts.9.customLabel>right kidney</Momu.corePart.parts.9.customLabel>
+  <Momu.corePart.parts.11.parts.0.parts.1.customLabel>left eye</Momu.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Momu.corePart.parts.11.parts.0.parts.2.customLabel>right eye</Momu.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Momu.corePart.parts.11.parts.0.parts.3.customLabel>left ear</Momu.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Momu.corePart.parts.11.parts.0.parts.4.customLabel>right ear</Momu.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Momu.corePart.parts.12.customLabel>left shoulder</Momu.corePart.parts.12.customLabel>
+  <Momu.corePart.parts.12.parts.0.customLabel>left clavicle</Momu.corePart.parts.12.parts.0.customLabel>
+  <Momu.corePart.parts.12.parts.1.customLabel>left arm</Momu.corePart.parts.12.parts.1.customLabel>
+  <Momu.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</Momu.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Momu.corePart.parts.12.parts.1.parts.1.customLabel>left radius</Momu.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Momu.corePart.parts.12.parts.1.parts.2.customLabel>left hand</Momu.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Momu.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left pinky</Momu.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Momu.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left ring finger</Momu.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Momu.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left middle finger</Momu.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Momu.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left index finger</Momu.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Momu.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left thumb</Momu.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Momu.corePart.parts.13.customLabel>right shoulder</Momu.corePart.parts.13.customLabel>
+  <Momu.corePart.parts.13.parts.0.customLabel>right clavicle</Momu.corePart.parts.13.parts.0.customLabel>
+  <Momu.corePart.parts.13.parts.1.customLabel>right arm</Momu.corePart.parts.13.parts.1.customLabel>
+  <Momu.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</Momu.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Momu.corePart.parts.13.parts.1.parts.1.customLabel>right radius</Momu.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Momu.corePart.parts.13.parts.1.parts.2.customLabel>right hand</Momu.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Momu.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right pinky</Momu.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Momu.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right ring finger</Momu.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Momu.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right middle finger</Momu.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Momu.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>right index finger</Momu.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Momu.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>right thumb</Momu.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Momu.corePart.parts.15.customLabel>left leg</Momu.corePart.parts.15.customLabel>
+  <Momu.corePart.parts.15.parts.0.customLabel>left femur</Momu.corePart.parts.15.parts.0.customLabel>
+  <Momu.corePart.parts.15.parts.1.customLabel>left tibia</Momu.corePart.parts.15.parts.1.customLabel>
+  <Momu.corePart.parts.15.parts.2.customLabel>left foot</Momu.corePart.parts.15.parts.2.customLabel>
+  <Momu.corePart.parts.15.parts.2.parts.0.customLabel>left little toe</Momu.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Momu.corePart.parts.15.parts.2.parts.1.customLabel>left fourth toe</Momu.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Momu.corePart.parts.15.parts.2.parts.2.customLabel>left middle toe</Momu.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Momu.corePart.parts.15.parts.2.parts.3.customLabel>left second toe</Momu.corePart.parts.15.parts.2.parts.3.customLabel>
+  <Momu.corePart.parts.15.parts.2.parts.4.customLabel>left big toe</Momu.corePart.parts.15.parts.2.parts.4.customLabel>
+  <Momu.corePart.parts.16.customLabel>right leg</Momu.corePart.parts.16.customLabel>
+  <Momu.corePart.parts.16.parts.0.customLabel>right femur</Momu.corePart.parts.16.parts.0.customLabel>
+  <Momu.corePart.parts.16.parts.1.customLabel>right tibia</Momu.corePart.parts.16.parts.1.customLabel>
+  <Momu.corePart.parts.16.parts.2.customLabel>right foot</Momu.corePart.parts.16.parts.2.customLabel>
+  <Momu.corePart.parts.16.parts.2.parts.0.customLabel>right little toe</Momu.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Momu.corePart.parts.16.parts.2.parts.1.customLabel>right fourth toe</Momu.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Momu.corePart.parts.16.parts.2.parts.2.customLabel>right middle toe</Momu.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Momu.corePart.parts.16.parts.2.parts.3.customLabel>right second toe</Momu.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Momu.corePart.parts.16.parts.2.parts.4.customLabel>right big toe</Momu.corePart.parts.16.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

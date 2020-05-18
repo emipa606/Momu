@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ranged -->
+
+  <Bow_Momu.label>momu bow</Bow_Momu.label>
+  <Bow_Momu.description>A powerful bow made of specially treated wood and metal reinforcements. It lacks the range of a greatbow, but fires devastatingly powerful arrows.</Bow_Momu.description>
+  <Bow_Momu.tools.0.label>limb</Bow_Momu.tools.0.label>
+
+  <Arrow_Momu.label>momu arrow</Arrow_Momu.label>
+
+
+  <!-- Melee -->
+
+  <MeleeWeapon_Momu_Blade.label>momu blade</MeleeWeapon_Momu_Blade.label>
+  <MeleeWeapon_Momu_Blade.description>This unique knife has its handle grown organically from special bramblewood trees. It's rumored to give Momu courage in battle.</MeleeWeapon_Momu_Blade.description>
+  <MeleeWeapon_Momu_Blade.tools.0.label>handle</MeleeWeapon_Momu_Blade.tools.0.label>
+  <MeleeWeapon_Momu_Blade.tools.1.label>point</MeleeWeapon_Momu_Blade.tools.1.label>
+  <MeleeWeapon_Momu_Blade.tools.2.label>edge</MeleeWeapon_Momu_Blade.tools.2.label>
+
+
+</LanguageData>

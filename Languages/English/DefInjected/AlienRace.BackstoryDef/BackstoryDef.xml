@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ##Adulthood: -->
+
+  <Greenguard_Trapper.title>Greenguard Trapper</Greenguard_Trapper.title>
+  <Greenguard_Trapper.titleShort>Trapper</Greenguard_Trapper.titleShort>
+  <Greenguard_Trapper.baseDescription>[PAWN_nameDef] has a good eye for rigging traps and snares. [PAWN_pronoun] is resourceful in a fight. (Momu)
+</Greenguard_Trapper.baseDescription>
+
+  <Momu_Adventurer.title>Momu Adventurer</Momu_Adventurer.title>
+  <Momu_Adventurer.titleShort>Adventurer</Momu_Adventurer.titleShort>
+  <Momu_Adventurer.baseDescription>[PAWN_nameDef] yearned for adventure, more so than other Momu. However, fate had [PAWN_possessive] spend a large part of [PAWN_possessive] life in poverty wandering from place to place. Now lost and searching for a place to call home and end [PAWN_possessive] adventuring days in peace.
+ (Momu)
+</Momu_Adventurer.baseDescription>
+
+  <Momu_Rancher.title>Momu Rancher</Momu_Rancher.title>
+  <Momu_Rancher.titleShort>Rancher</Momu_Rancher.titleShort>
+  <Momu_Rancher.baseDescription>[PAWN_nameDef] is in charge of gathering wool for making clothing alongside eggs and milk to trade - [PAWN_pronoun] spends a lot of time with animals. In off times, [PAWN_possessive] helps grow hay for the fields.
+ (Momu)
+</Momu_Rancher.baseDescription>
+
+  <Momu_Artist.title>Momu Artist</Momu_Artist.title>
+  <Momu_Artist.titleShort>Artist</Momu_Artist.titleShort>
+  <Momu_Artist.baseDescription>[PAWN_nameDef] is skilled at turning raw materials into beautiful objects. [PAWN_pronoun] sometimes tends to hoard, but everyone appreciates the beauty they add to the colony. They tend to skimp out on their end of the daily chores.
+ (Momu)
+</Momu_Artist.baseDescription>
+
+  <Momu_Laborer.title>Momu Laborer</Momu_Laborer.title>
+  <Momu_Laborer.titleShort>Laborer</Momu_Laborer.titleShort>
+  <Momu_Laborer.baseDescription>[PAWN_nameDef] is quick to land a helping hand around the colony. They aren't the brightest Momu in the colony, but that doesn't make them any less appreciated.
+ (Momu)
+</Momu_Laborer.baseDescription>
+
+  <Momu_Greenguard_Builder.title>Greenguard Builder</Momu_Greenguard_Builder.title>
+  <Momu_Greenguard_Builder.titleShort>Builder</Momu_Greenguard_Builder.titleShort>
+  <Momu_Greenguard_Builder.baseDescription>[PAWN_nameDef] is responsible for building defenses, sleeping spots and anything else that the Greenguard needs on the go. [PAWN_pronoun] isn't much of a talker, preferring to focus on their work.
+ (Momu)
+</Momu_Greenguard_Builder.baseDescription>
+
+  <Momu_Foreign_Chef.title>Momu Chef</Momu_Foreign_Chef.title>
+  <Momu_Foreign_Chef.titleShort>Chef</Momu_Foreign_Chef.titleShort>
+  <Momu_Foreign_Chef.baseDescription>Though Momu tend to eat raw food, [PAWN_nameDef] has learned to artfully arrange raw ingredients, and cook for human guests as well as make kibble for animals. Others view her fascination with cooking oddly, but [PAWN_pronoun] doesn't mind. [PAWN_nameDef] prefers to be in the kitchen than anywhere else.
+ (Momu)
+</Momu_Foreign_Chef.baseDescription>
+
+  <Momu_Crafter.title>Craftsrabbit</Momu_Crafter.title>
+  <Momu_Crafter.titleShort>Craftsrabbit</Momu_Crafter.titleShort>
+  <Momu_Crafter.baseDescription>[PAWN_nameDef] has a very important role - creating goods for the colony. [PAWN_pronoun] is very talented, and tries to teach [PAWN_possessive] kin their craft. After a fire in a tailor shop, [PAWN_pronoun] is terrified of flames.
+ (Momu)
+</Momu_Crafter.baseDescription>
+
+  <Momu_Greenguard_Smith.title>Greenguard Smith</Momu_Greenguard_Smith.title>
+  <Momu_Greenguard_Smith.titleShort>Smith</Momu_Greenguard_Smith.titleShort>
+  <Momu_Greenguard_Smith.baseDescription>[PAWN_nameDef] spends hours at the forge or the carpentry bench, churning out weapons and armor to keep [PAWN_possessive] friends safe.
+ (Momu)
+</Momu_Greenguard_Smith.baseDescription>
+
+  <Momu_Greenguard_Healer.title>Greenguard Healer</Momu_Greenguard_Healer.title>
+  <Momu_Greenguard_Healer.titleShort>Medic</Momu_Greenguard_Healer.titleShort>
+  <Momu_Greenguard_Healer.baseDescription>[PAWN_nameDef] is in charge of patching wounds and making sure that [PAWN_possessive] friends are healthy and safe. [PAWN_nameDef] picked up some cooking knowledge from a human caravan.
+ (Momu)
+</Momu_Greenguard_Healer.baseDescription>
+
+  <Momu_Village_Healer.title>Village Healer</Momu_Village_Healer.title>
+  <Momu_Village_Healer.titleShort>Healer</Momu_Village_Healer.titleShort>
+  <Momu_Village_Healer.baseDescription>[PAWN_nameDef] crafts medicine and tends to wounded Momu. [PAWN_nameDef] has taken a vow of nonviolence after seeing what others are capable of.
+ (Momu)
+</Momu_Village_Healer.baseDescription>
+
+  <Momu_Greenguard_Knight.title>Greenguard Knight</Momu_Greenguard_Knight.title>
+  <Momu_Greenguard_Knight.titleShort>Knight</Momu_Greenguard_Knight.titleShort>
+  <Momu_Greenguard_Knight.baseDescription>A peerless warrior, [PAWN_nameDef] has tirelessly trained to keep [PAWN_possessive] friends safe. [PAWN_nameDef] has left behind intellectual skills to focus on combat.
+ (Momu)
+</Momu_Greenguard_Knight.baseDescription>
+
+  <Momu_Geologist.title>Momu Geologist</Momu_Geologist.title>
+  <Momu_Geologist.titleShort>Geologist</Momu_Geologist.titleShort>
+  <Momu_Geologist.baseDescription>[PAWN_nameDef] loves collecting metal, jewels and useful stones.[PAWN_pronoun] doesn't even mind going into dark spaces to find them. [PAWN_nameDef] enjoys hard work. Animals seem to dislike [PAWN_possessive] for some reason.
+ (Momu)
+</Momu_Geologist.baseDescription>
+
+  <Momu_Seer.title>Momu Seer</Momu_Seer.title>
+  <Momu_Seer.titleShort>Seer</Momu_Seer.titleShort>
+  <Momu_Seer.baseDescription>[PAWN_nameDef] is the wisest of all the Wiserabbits, and [PAWN_pronoun] tends to act as the colony's leader.
+ (Momu)
+</Momu_Seer.baseDescription>
+
+  <Momu_Wiserabbit.title>Momu Wiserabbit</Momu_Wiserabbit.title>
+  <Momu_Wiserabbit.titleShort>Wiserabbit</Momu_Wiserabbit.titleShort>
+  <Momu_Wiserabbit.baseDescription>[PAWN_nameDef] is a Wiserabbit, and [PAWN_pronoun] loves to learn new things. Unfortunately, [PAWN_pronoun] is allergic to pollen, and prefers to spend time inside.
+ (Momu)
+</Momu_Wiserabbit.baseDescription>
+
+  <Momu_Grower.title>Momu Grower</Momu_Grower.title>
+  <Momu_Grower.titleShort>Grower</Momu_Grower.titleShort>
+  <Momu_Grower.baseDescription>[PAWN_nameDef] has a very important job - growing food for everyone to eat. [PAWN_pronoun] has a green thumb, and tends to make a lot of friends. After all, people love to eat!
+ (Momu)
+</Momu_Grower.baseDescription>
+
+  <Momu_Fletcher.title>Momu Fletcher</Momu_Fletcher.title>
+  <Momu_Fletcher.titleShort>Fletcher</Momu_Fletcher.titleShort>
+  <Momu_Fletcher.baseDescription>[PAWN_nameDef] makes bows and arrows for their colony and the Greenguard. [PAWN_pronoun] has a good eye for detail, and has kept birds in the past for feathers.
+ (Momu)
+</Momu_Fletcher.baseDescription>
+
+  <Momu_Greenguard_Ranger.title>Momu Ranger</Momu_Greenguard_Ranger.title>
+  <Momu_Greenguard_Ranger.titleShort>Ranger</Momu_Greenguard_Ranger.titleShort>
+  <Momu_Greenguard_Ranger.baseDescription>[PAWN_nameDef] is a great shot with a bow. [PAWN_pronoun] supports her friends at a safe distance. [PAWN_pronoun] has also learned a little bit of first aid, since [PAWN_pronoun] lets the knights take the hits.
+ (Momu)
+</Momu_Greenguard_Ranger.baseDescription>
+
+  <Momu_Entertainer.title>Momu Entertainer</Momu_Entertainer.title>
+  <Momu_Entertainer.titleShort>Entertainer</Momu_Entertainer.titleShort>
+  <Momu_Entertainer.baseDescription>[PAWN_nameDef] is an entertainer, and takes great joy in making others smile. [PAWN_pronoun] is often used as a negotiator with other races due to their charisma. [PAWN_pronoun] doesn't have much of a stomach for violence.
+ (Momu)
+</Momu_Entertainer.baseDescription>
+
+
+  <!-- ##Childhood: -->
+
+  <Momu_Naieve_Child.title>Kind Child</Momu_Naieve_Child.title>
+  <Momu_Naieve_Child.titleShort>Kind</Momu_Naieve_Child.titleShort>
+  <Momu_Naieve_Child.baseDescription>[PAWN_nameDef] grew up in a huge family. There really was no need to worry about their livelyhood as there was nothing to fear growing up. This made [PAWN_possessive] rather naÃ¯ve. Thinking that there is good in everyone surely brought trouble for them, but they have a firm belief that everyone has goodness inside of them.
+(Momu)
+</Momu_Naieve_Child.baseDescription>
+
+  <Momu_Responsible_Child.title>Responsible Child</Momu_Responsible_Child.title>
+  <Momu_Responsible_Child.titleShort>Responsible</Momu_Responsible_Child.titleShort>
+  <Momu_Responsible_Child.baseDescription>In [PAWN_possessive] litter, [PAWN_nameDef] was always the responsible one. [PAWN_possessive] parents would always praise [PAWN_possessive] for being so helpful and the other Momu would always give [PAWN_pronoun] compliments. [PAWN_nameDef]thus always aims to please and has a hard time saying no. 
+(Momu)
+</Momu_Responsible_Child.baseDescription>
+
+  <Momu_Bully_Child.title>Bully</Momu_Bully_Child.title>
+  <Momu_Bully_Child.titleShort>Bully</Momu_Bully_Child.titleShort>
+  <Momu_Bully_Child.baseDescription>[PAWN_nameDef] is a bully - always getting into trouble and causing a ruckus. Some have taken to call [PAWN_possessive] the 'black rabbit' due to this. However, get on [PAWN_possessive] good side, and you have a friend for life. 
+(Momu)
+</Momu_Bully_Child.baseDescription>
+
+  <Momu_Bookworm_Child.title>Momu Bookworm</Momu_Bookworm_Child.title>
+  <Momu_Bookworm_Child.titleShort>Bookworm</Momu_Bookworm_Child.titleShort>
+  <Momu_Bookworm_Child.baseDescription>[PAWN_nameDef] loves to read and spend time by themselves. [PAWN_nameDef] simply wants to find some time alone to do things that matter to [PAWN_possessive]. 
+(Momu)
+</Momu_Bookworm_Child.baseDescription>
+
+  <Momu_Petshop_Child.title>Momu Petshop Assistant</Momu_Petshop_Child.title>
+  <Momu_Petshop_Child.titleShort>Assistant</Momu_Petshop_Child.titleShort>
+  <Momu_Petshop_Child.baseDescription>[PAWN_nameDef] works part time at a pet shop. [PAWN_nameDef] loves the company of animals.
+(Momu)
+</Momu_Petshop_Child.baseDescription>
+
+  <Momu_Novelist_Child.title>Momu Aspiring Novelist</Momu_Novelist_Child.title>
+  <Momu_Novelist_Child.titleShort>Writer</Momu_Novelist_Child.titleShort>
+  <Momu_Novelist_Child.baseDescription>[PAWN_nameDef] loves to write stories and show them with [PAWN_possessive] friends.
+(Momu)
+</Momu_Novelist_Child.baseDescription>
+
+  <Momu_Errand_Child.title>Momu Errand Runner</Momu_Errand_Child.title>
+  <Momu_Errand_Child.titleShort>Runner</Momu_Errand_Child.titleShort>
+  <Momu_Errand_Child.baseDescription>[PAWN_nameDef] doesn't mind helping out anyone that needs it. They're swift on their feet!
+(Momu)
+</Momu_Errand_Child.baseDescription>
+
+  <Momu_Survivor_Child.title>Momu Survivor</Momu_Survivor_Child.title>
+  <Momu_Survivor_Child.titleShort>Survivor</Momu_Survivor_Child.titleShort>
+  <Momu_Survivor_Child.baseDescription>[PAWN_nameDef] was abandoned, and had to live on their own. [PAWN_nameDef] doesn't have very many social skills, but knows a lot about staying alive.
+(Momu)
+</Momu_Survivor_Child.baseDescription>
+
+  <Momu_Rescued_Child.title>Momu Rescued Child</Momu_Rescued_Child.title>
+  <Momu_Rescued_Child.titleShort>Rescue</Momu_Rescued_Child.titleShort>
+  <Momu_Rescued_Child.baseDescription>[PAWN_nameDef] was abandoned when they were very small, but found by a Greenguard party. [PAWN_nameDef] is trying to grow up to be like them - brave and awesome.
+(Momu)
+</Momu_Rescued_Child.baseDescription>
+
+  <Momu_Collector_Child.title>Momu Rock Collector</Momu_Collector_Child.title>
+  <Momu_Collector_Child.titleShort>Collector</Momu_Collector_Child.titleShort>
+  <Momu_Collector_Child.baseDescription>[PAWN_nameDef] loves to gather shiny or useful things, and tends to hoard them. They are a bit afraid of animals, after being chased by a mean dog.
+(Momu)
+</Momu_Collector_Child.baseDescription>
+
+  <Momu_Farmhand_Child.title>Momu Farmhand</Momu_Farmhand_Child.title>
+  <Momu_Farmhand_Child.titleShort>Farmhand</Momu_Farmhand_Child.titleShort>
+  <Momu_Farmhand_Child.baseDescription>[PAWN_nameDef] was born to a large farming family, like most Momu. [PAWN_pronoun] tries to help on the farm as well as [PAWN_pronoun] is able.
+(Momu)
+</Momu_Farmhand_Child.baseDescription>
+
+  <Momu_Bright_Child.title>Momu Bright Child</Momu_Bright_Child.title>
+  <Momu_Bright_Child.titleShort>Bright</Momu_Bright_Child.titleShort>
+  <Momu_Bright_Child.baseDescription>[PAWN_nameDef] is a natural story teller and entertainer. [PAWN_pronoun] loves to make people laugh.
+(Momu)
+</Momu_Bright_Child.baseDescription>
+
+
+</LanguageData>

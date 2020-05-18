@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MomuVillager.label>momu colonist</MomuVillager.label>
+  <MomuVillager.labelPlural>momu colonists</MomuVillager.labelPlural>
+  <MomuVillager.labelMale>male momu colonist</MomuVillager.labelMale>
+  <MomuVillager.labelMalePlural>male momu colonists</MomuVillager.labelMalePlural>
+  <MomuVillager.labelFemale>female momu colonist</MomuVillager.labelFemale>
+  <MomuVillager.labelFemalePlural>female momu colonists</MomuVillager.labelFemalePlural>
+
+  <MomuGreenguard.label>greenguard</MomuGreenguard.label>
+  <MomuGreenguard.labelPlural>greenguards</MomuGreenguard.labelPlural>
+  <MomuGreenguard.labelMale>male greenguard</MomuGreenguard.labelMale>
+  <MomuGreenguard.labelMalePlural>male greenguards</MomuGreenguard.labelMalePlural>
+  <MomuGreenguard.labelFemale>female greenguard</MomuGreenguard.labelFemale>
+  <MomuGreenguard.labelFemalePlural>female greenguards</MomuGreenguard.labelFemalePlural>
+
+  <MomuElderGreenguard.label>elder greenguard</MomuElderGreenguard.label>
+  <MomuElderGreenguard.labelPlural>elder greenguards</MomuElderGreenguard.labelPlural>
+  <MomuElderGreenguard.labelMale>male elder greenguard</MomuElderGreenguard.labelMale>
+  <MomuElderGreenguard.labelMalePlural>male elder greenguards</MomuElderGreenguard.labelMalePlural>
+  <MomuElderGreenguard.labelFemale>female elder greenguard</MomuElderGreenguard.labelFemale>
+  <MomuElderGreenguard.labelFemalePlural>female elder greenguards</MomuElderGreenguard.labelFemalePlural>
+
+  <MomuGreenguardRanger.label>greenguard ranger</MomuGreenguardRanger.label>
+  <MomuGreenguardRanger.labelPlural>greenguard rangers</MomuGreenguardRanger.labelPlural>
+  <MomuGreenguardRanger.labelMale>male greenguard ranger</MomuGreenguardRanger.labelMale>
+  <MomuGreenguardRanger.labelMalePlural>male greenguard rangers</MomuGreenguardRanger.labelMalePlural>
+  <MomuGreenguardRanger.labelFemale>female greenguard ranger</MomuGreenguardRanger.labelFemale>
+  <MomuGreenguardRanger.labelFemalePlural>female greenguard rangers</MomuGreenguardRanger.labelFemalePlural>
+
+  <MomuCitizen.label>citizen</MomuCitizen.label>
+  <MomuCitizen.labelPlural>citizens</MomuCitizen.labelPlural>
+  <MomuCitizen.labelMale>male citizen</MomuCitizen.labelMale>
+  <MomuCitizen.labelMalePlural>male citizens</MomuCitizen.labelMalePlural>
+  <MomuCitizen.labelFemale>female citizen</MomuCitizen.labelFemale>
+  <MomuCitizen.labelFemalePlural>female citizens</MomuCitizen.labelFemalePlural>
+
+  <MomuTrader.label>trader</MomuTrader.label>
+  <MomuTrader.labelPlural>traders</MomuTrader.labelPlural>
+  <MomuTrader.labelMale>male trader</MomuTrader.labelMale>
+  <MomuTrader.labelMalePlural>male traders</MomuTrader.labelMalePlural>
+  <MomuTrader.labelFemale>female trader</MomuTrader.labelFemale>
+  <MomuTrader.labelFemalePlural>female traders</MomuTrader.labelFemalePlural>
+
+
+</LanguageData>

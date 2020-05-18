@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_Momu_Poncho.label>Momu Poncho</Apparel_Momu_Poncho.label>
+  <Apparel_Momu_Poncho.description>A long, cloak-like garment to help you keep cool in the desert. Humans can wear it, too, but only if they have the same body type as the Momu!</Apparel_Momu_Poncho.description>
+
+  <Apparel_Momu_ThickJacket.label>Momu Thick Jacket</Apparel_Momu_ThickJacket.label>
+  <Apparel_Momu_ThickJacket.description>This jacket is thicker than the human standard, but doesn't interfere with one's movement like a parka. Humans can wear it, too, but only if they have the same body type as the Momu!</Apparel_Momu_ThickJacket.description>
+
+  <Apparel_Momu_SimpleShirt.label>Momu Simple Shirt</Apparel_Momu_SimpleShirt.label>
+  <Apparel_Momu_SimpleShirt.description>A simple shirt, sewn with care. Humans can wear it, too, but only if they have the same body type as the Momu!</Apparel_Momu_SimpleShirt.description>
+
+  <Apparel_Momu_RoyalCoat.label>Momu Royal Coat</Apparel_Momu_RoyalCoat.label>
+  <Apparel_Momu_RoyalCoat.description>A fancy coat, often worn by important people. Humans can wear it, too, but only if they have the same body type as the Momu!</Apparel_Momu_RoyalCoat.description>
+
+  <Apparel_Momu_EventClothes.label>Momu Event Clothes</Apparel_Momu_EventClothes.label>
+  <Apparel_Momu_EventClothes.description>A fancy set of clothing for a night out on the town. Humans can wear it, too, but only if they have the same body type as the Momu!</Apparel_Momu_EventClothes.description>
+
+
+</LanguageData>

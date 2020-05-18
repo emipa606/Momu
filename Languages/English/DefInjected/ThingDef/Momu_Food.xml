@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MealVegetarian.label>Vegetarian Medley</MealVegetarian.label>
+  <MealVegetarian.description>Artfully prepared potatoes and corn, for extra satisfaction.</MealVegetarian.description>
+
+  <MealLavishVegetarian.label>Seasoned Vegetarian Medley</MealLavishVegetarian.label>
+  <MealLavishVegetarian.description>A dash of sunflower oil added to a vegetarian meal makes it delicious!</MealLavishVegetarian.description>
+
+
+</LanguageData>

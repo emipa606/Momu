@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Veggie_Meal.label>make vegetarian medley</Make_Veggie_Meal.label>
+  <Make_Veggie_Meal.description>Artfully prepare some potatoes and corn together for extra satisfaction. A Momu favorite!</Make_Veggie_Meal.description>
+  <Make_Veggie_Meal.jobString>Making vegetarian medley.</Make_Veggie_Meal.jobString>
+
+  <Make_Lavish_Veggie_Meal.label>make lavish vegetarian medley</Make_Lavish_Veggie_Meal.label>
+  <Make_Lavish_Veggie_Meal.description>Adds a dash of sunflower oil to a vegetarian meal to make it delicious! A Momu Lavish Meal.</Make_Lavish_Veggie_Meal.description>
+  <Make_Lavish_Veggie_Meal.jobString>Making lavish medley.</Make_Lavish_Veggie_Meal.jobString>
+
+
+</LanguageData>
